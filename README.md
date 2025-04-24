@@ -3,7 +3,6 @@
 🚀 **Cloud & DevOps Engineer** | AWS Certified (SAA, CCP)  
 🔧 Automating all the things & making the cloud behave since 2024!  
 
----
 
 ### 🛠️ Tech I vibe with  
 - ☁️ **Cloud:** EC2, RDS, S3, IAM, CloudWatch, Auto Scaling, ELB  
@@ -12,12 +11,10 @@
 - 💻 **Scripting:** Bash, PowerShell, Python  
 - 🛡️ **Security & Monitoring:** IAM Policies, CloudWatch Alarms, Best Practices
 
----
 
 ### 🔗 Let’s Connect!  
 [LinkedIn](https://www.linkedin.com/in/abhishekbhagat98/)  
 📧 abhishek.bhagat98@gmail.com  
 
----
 
 ⚡ **Fun Fact:** I break stuff so you don’t have to. Then I automate the fix 😎  
