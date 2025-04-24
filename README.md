@@ -4,6 +4,7 @@
 🔧 Automating all the things & making the cloud behave since 2024!  
 
 
+
 ### 🛠️ Tech I vibe with  
 - ☁️ **Cloud:** EC2, RDS, S3, IAM, CloudWatch, Auto Scaling, ELB  
 - ⚙️ **DevOps:** CI/CD, CodePipeline, CodeBuild, CodeDeploy  
@@ -12,9 +13,11 @@
 - 🛡️ **Security & Monitoring:** IAM Policies, CloudWatch Alarms, Best Practices
 
 
+
 ### 🔗 Let’s Connect!  
 [LinkedIn](https://www.linkedin.com/in/abhishekbhagat98/)  
-📧 abhishek.bhagat98@gmail.com  
+📧 **Email:** abhishek.bhagat98@gmail.com  
+
 
 
 ⚡ **Fun Fact:** I break stuff so you don’t have to. Then I automate the fix 😎  
