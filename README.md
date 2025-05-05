@@ -17,7 +17,3 @@
 ### 🔗 Let’s Connect!  
 [LinkedIn](https://www.linkedin.com/in/abhishekbhagat98/)  
 📧 **Email:** abhishek.bhagat98@gmail.com  
-
-
-
-⚡ **Fun Fact:** I break stuff so you don’t have to. Then I automate the fix 😎  
